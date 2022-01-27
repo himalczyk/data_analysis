@@ -1,0 +1,1636 @@
+Number,Opened,Short description,Priority,State,Assignment group,Template,Description,Company,Impact,Urgency,Vendor group
+INC2033483,2021-12-06 10:59:35,RF Scanner Issue - unable to pick up any today orders,1 - Critical,Closed,Apps - CG WM0S 2018,Issue with WMOS 2018: RF Scanner,"IMPORTANT FOR DC: In case of HPI, please obtain below information:
+If the issue is not resolved soon, how will it impact DC operations? May the incident cause a complete and immediate work stoppage affecting whole DC?
+
+
+Name: Karolina
+
+Contact Number: Extension number 3326
+
+*** IMPORTANT INFORMATION - ALL QUESTIONS MUST BE ANSWERED***
+
+1. Whereabouts in the DC did you observe the problem?  Please give as much information as possible e.g. if in the mezzanine area, which floor were you on and whereabouts within the floor (aisle reference and shelf)?  If you can see an access point on the ceiling can you confirm what its number is?
+
+2.      How long does it take between each scanned task? n/a
+
+3.      Does it persist when moving to a different location? yes
+
+4. How many people are experiencing this problem, and are they in the same location or in other areas of the DC? 35 people on singles 15- box pick, 15/17- on dispatch department.
+
+5. Is general Network access affect i.e.
+• Can you send and receive emails on a PC
+• Access the internet on a PC
+• Access Nova
+• Are Cognos Reports affected
+
+6. If you can login: 
+• can you navigate around via the menu?
+• are you being assigned tasks via the RF Scanner ?
+o If you are assigned a task, can you scan the LPN and/or item barcodes?
+
+
+7. Is the problem that the screen of the RF scanner has frozen?  If so what transaction were you performing when the scanner froze and what screen prompt were you at?
+
+8. Is this problem intermittent and if so, how often over the past hour and day has it been happening, and how long does it usually take to obtain a response from the system?
+
+9. What was the battery life of the RF scanner as displayed on the screen when you experienced the problem?
+
+10. What was the RF signal of the RF scanner as displayed on the screen when you experienced a problem?  In particular was an 'X' displayed?  
+
+11. **KNOWSLEY DC ONLY READ FOLLOWING STATEMENTS FULLY** 
+DC management state that if performance is affected then a restart is required!
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+
+Given this requirement what time would be best for the DC to take an outage of approx 1 hour? 
+an email to the DC Manager will be required to confirm this information, especially if they say the restart is not required.
+Speak to Team Leader to advise of issue.
+
+
+Please see
+KB0014432 [Matalan] How to log a faulty RF Scanner (DC)?
+KB0014360 [Matalan] How to proceed with RF scanner slowness (DC)?
+",Matalan,1 - Extensive/Widespread,1 - Critical,3rd Party – Maintel (In Progress)
+INC2030733,2021-12-05 17:36:25,High Priority - Wave stuck in Wave Scheduled Status,1 - Critical,Closed,Apps - CG WM0S 2018,WMOS: Issue with DDR  Wave,"User Name: Pavel_M
+Email Id: pavel_m@matalan.co.uk
+Contact Number:  0151 556 6899 
+Wave Type:  PS No Short With Singles
+
+Email:
+Hi IT,
+
+The wave 202112050006 PS No Short With Singles has been started at 20:05 and it still seems to be in Wave Scheduled Status. We have double-checked all the parameters and everything seems to be correct on our side with no other waves running in the background.
+
+Can this call be logged as a P1 as this is stopping us from running other waves and we are having outstanding volume for approximately 1.5 hours.
+
+Please reply to all recipients of this message when sending an answer, all management has to be aware of the situation.
+You can contact us on 0151 556 6899 
+
+Thanks,
+Marian Pavel
+N2 - Shift 
+Wave and Inbound Planner
+E-mail : Pavel_M@matalan.co.uk
+
+
+Please See:
+KB0011961  [Matalan] DDR wave is not visible on wave queue as running",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC1997896,2021-11-28 14:17:53,RF Scanner Issue,1 - Critical,Closed,Apps - CG WM0S 2018,Issue with WMOS 2018: RF Scanner,"IMPORTANT FOR DC: In case of HPI, please obtain below information:
+If the issue is not resolved soon, how will it impact DC operations? May the incident cause a complete and immediate work stoppage affecting whole DC?
+
+
+Name: Wojciech
+
+Contact Number:
+
+*** IMPORTANT INFORMATION - ALL QUESTIONS MUST BE ANSWERED***
+
+1. Whereabouts in the DC did you observe the problem?  Please give as much information as possible e.g. if in the mezzanine area, which floor were you on and whereabouts within the floor (aisle reference and shelf)?  If you can see an access point on the ceiling can you confirm what its number is?
+
+2.      How long does it take between each scanned task?
+
+3.      Does it persist when moving to a different location?
+
+4. How many people are experiencing this problem, and are they in the same location or in other areas of the DC?
+
+5. Is general Network access affect i.e.
+• Can you send and receive emails on a PC
+• Access the internet on a PC
+• Access Nova
+• Are Cognos Reports affected
+
+6. If you can login: 
+• can you navigate around via the menu?
+• are you being assigned tasks via the RF Scanner ?
+o If you are assigned a task, can you scan the LPN and/or item barcodes?
+
+
+7. Is the problem that the screen of the RF scanner has frozen?  If so what transaction were you performing when the scanner froze and what screen prompt were you at?
+
+8. Is this problem intermittent and if so, how often over the past hour and day has it been happening, and how long does it usually take to obtain a response from the system?
+
+9. What was the battery life of the RF scanner as displayed on the screen when you experienced the problem?
+
+10. What was the RF signal of the RF scanner as displayed on the screen when you experienced a problem?  In particular was an 'X' displayed?  
+
+11. **KNOWSLEY DC ONLY READ FOLLOWING STATEMENTS FULLY** 
+DC management state that if performance is affected then a restart is required!
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+
+Given this requirement what time would be best for the DC to take an outage of approx 1 hour? 
+an email to the DC Manager will be required to confirm this information, especially if they say the restart is not required.
+Speak to Team Leader to advise of issue.
+
+
+Please see
+KB0014432 [Matalan] How to log a faulty RF Scanner (DC)?
+KB0014360 [Matalan] How to proceed with RF scanner slowness (DC)?
+",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC1906108,2021-11-09 15:28:13,Matalan ServiceNow Test Simulation,2 - High,Closed,Capgemini Qradar Support - CG_GSOC_OPS_Support,,"Hello, This is testing the SOAR-SNOW Integration",Matalan,4 - Minor/Localized,1 - Critical,
+INC1881639,2021-11-08 09:58:48,Test2,2 - High,Closed,Capgemini Qradar Support - CG_GSOC_OPS_Support,,Full Description,Matalan,4 - Minor/Localized,1 - Critical,
+INC1881630,2021-11-08 09:57:16,Test,2 - High,Closed,Capgemini Qradar Support - CG_GSOC_OPS_Support,,Hello this is for testing ,Matalan,4 - Minor/Localized,1 - Critical,
+INC1881598,2021-11-08 09:52:12,Test,2 - High,Closed,Capgemini Qradar Support - CG_GSOC_OPS_Support,,Hello this is for testing ,Matalan,4 - Minor/Localized,1 - Critical,
+INC1098575,2021-06-08 17:30:09,P1 Cyber Security Incident - HO User account details leaked to Store Users ,1 - Critical,Closed,IS - CG Service Desk,Security breach issue,"User: Carl Thorp
+
+Issue: Capgemini were asked to set up 639 users from a list that we provided them that originated from HR. This list included Last Name, First Name, role / job title and the users location. This was followed up with a further 107 users.
+
+It has now transpired that Capgemini made an error in matching user account names and the account details of Head Office (HO) users have been sent to Store Users with a default password. If the Store User has attempted to access the account using the default password and then failed to gain access, they are likely to contact the service desk who may have automatically reset the account password. This will give the Store User access to the HO user account. A small sample of accounts has been taken and this has been found to include the account of the Rewards and Comms Manager.
+
+The project team have been informed that they have 24 hours from 14:30 to provide a list to the Matalan Cyber Security Architect of any HO office account that has been exposed to Store Users so that we can identify if there has been any potential breach of GDPR.
+
+Please contact first Incident Manager or Senior Agent. Do not raise HPI without any consultations.
+
+Follow one of below KBA:
+KB0014162  [Matalan] Security breach. Email sent by Matalan user from other domain than Matalan (@matalan.co.uk
+KB0014163 [Matalan] How to proceed with a Phishing email? Suspicious email with attachment.
+You do have access to snow, right? Otherwise, I'll send word versions.
+",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC1063326,2021-06-02 12:39:10,Matalan mobile app - unable to make a payment in checkout,1 - Critical,Closed,Apps - CG Multichannel Support,Standard Incident,"Name:  Liam Russell
+
+Details: Please note that we have identified a live issue with the Matalan mobile app.
+
+When a customer is attempting to make a payment in checkout, they are kicked back to the homepage of the app.
+
+When the customer then attempts to checkout again they reach an error screen (page not found) after selecting their delivery method.
+
+We have been able to replicate these issues in Android only. We were able to successfully place orders on both IOS and the Matalan website.
+
+
+POC: 0044 7894 71877
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+NOTE: When logging a call with a 3rd Party/ resolving team, please MAKE SURE that the below details are included in the email:
+- Contact Name: 
+- Contact Number: 
+- Head Office / Store (Delete as appropriate) 
+- Store Number (If applicable) 
+- Address: 
+- Postcode:
+- Problem Description:
+
+
+incase of optima issues:
+
+Party ID
+Email address
+Reward Card
+Full Name
+
+Any customer information that is sent to the support inbox must be sent in a password protected document and not listed within an email. 
+
+See KB below or, in case KB is missing, mark knowledge box:
+KB0014429 [Matalan] WinSCP - How to configure SFTP connection to Vitesse for DC users
+KB0014822 [Matalan] Weekend Reports - WSSI.
+KB0014771 [Matalan] Secure Trading Issue.
+KB0014816 [Matalan] Stakeholder Pensions.
+KB0014790 [Matalan] SQL Developer - ORACLE only available to users with RESTRICTED SESSION privilege
+KB0010758 [Matalan] Screen Diares Extract issue
+KB0011018 [Matalan] Power BI report issue
+KB0011017 [Matalan] Oracle - How to handle POREC file issues?
+KB0014751 [Matalan] Metapack error E20094 Unable to modify
+KB0014763 [Matalan] Marketing System.
+KB0014830 [Matalan] Booking System (DC Booking).
+KB0014366 [Matalan] How to proceed with Path/file access error (Spool File Retriever)?
+KB0014501 [Matalan] How to proceed with NexGen/ Proud to be Matalan website issue? (Matalan)
+KB0014243 [Matalan] How to proceed when User is not seeing any parameter options on the reports or any data (N
+KB0015055 [Matalan] How to proceed when user cannot open a video material (CCTV footage)?
+KB0014112 [Matalan] Unable to access .ERR files.
+KB0014410 [Matalan] How to handle Weaves issue - HASP key not found (H0007)?
+KB0014212 [Matalan] How to handle Missing partner articlenumber for Matalan (email)?
+KB0014610 [Matalan] How to handle issue with Spool File Retriever? Error: Could not find the FTP command file.
+KB0014513 [Matalan] How to handle Air Conditioning Unit issues in DC (server room)?
+KB0014861 [Matalan] How to deal with IBM Cognos report issue? The operation failed error message.
+KB0014753 [Matalan] Dematic Maintenance - unable to access the Hanging Garment servers via VPN.
+KB0014834 [Matalan] Debit Note System.
+KB0014729 [Matalan] Citrix issue Citrix plug-in installation
+KB0014782 [Matalan] ATC daily sales (Daily sales report).
+KB0015764 [Matalan] BI Report - How to proceed with BI Batch email / sending Comm's / batch delay",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC1860509,2021-11-03 10:01:45,WMOS 2018 Issue Problem with messaging between WMS and WCS systems,1 - Critical,Closed,Apps - CG WM0S 2018,Issue with software: WMOS 2018,"*** Please fill in below information as these are important for automation purposes ***
+For Maintel tickets:
+
+Description: 
+Troubleshooting Steps: 
+Error codes: 
+Description of Configuration Item: 
+Impact:
+
+IMPORTANT FOR DC: In case of HPI, please obtain below information:
+If the issue is not resolved soon, how will it impact DC operations? May the incident cause a complete and immediate work stoppage affecting whole DC?
+
+User Name:-    Marc
+
+User ID:-    powell_m
+
+1. Problem:-    Problem with messaging between WMS and WCS systems
+
+2. Priority Required:-P1
+ 
+3. Potential Impact Now:- can't dispatch orders to customers
+
+4. Potential Impact if not resolved within 2 hours:- 
+
+5. If this is relating to a report issue, what is the name of the report?:-       
+
+6. Is this a single user / multiple user issue?    
+(If multiple users are affected, can they provide few user-ids)
+
+7. Is the whole DC experiencing the problem or one particular Department?      
+
+8. What type of device is being used e.g. Scanner  
+If they issue is with scanner, have they checked the scanner & nearby access point signal? Is it at good strength?   
+
+9. Can you access the WMoS screen on the PC?
+
+10. What time the issue started:
+
+11. What were you doing when the issue occurred and which screen were you accessing, menu option etc.      
+
+12. At what point did the task fail?       
+
+13. Are there any error messages, any DB error message(if possible attach screenshot or text message):-      
+
+14. If it's a hanging task, did it stop midway through?       
+
+15. Any other relevant information -       
+
+16. **KNOWSLEY DC ONLY READ FOLLOWING STATEMENTS FULLY** 
+DC management state that if performance is affected then a restart is required!
+
+Given this requirement what time would be best for the DC to take an outage of approx 1 hour? 
+an email to the DC Manager will be required to confirm this information, especially if they say the restart is not required.
+Speak to Team Leader to advise of issue.
+
+INFORMATION    All calls should be assigned to the WMOS2008 queue for initial assessment and re-assignment if necessary.  
+
+Hardware is on a HP Platform and is supported by Offshore HPUX Team.    
+
+Webservers are supported by the Wintel Server Desktop Team.    
+
+Manhattan provide 3rd line support for the WMOS Application. The WMOS Team will determine whether or not the call needs to be logged to Manhattan.        
+
+KB0014198 [Matalan] E-Commerce Orders checking.
+KB0014602 [Matalan] How to proceed when Orders do not go through from WM system to Nova?
+KB0014810  [Matalan] How to proceed with WMOS system failure? Warehouse Management System- WMOS (WM). Server issue.
+KB0014740  [Matalan] WMOS in Galaxy and Corby- access links.
+KB0014486 [Matalan] WMOS - How to proceed ILPN/ LPN/ oLPN issues (DC)?
+KB0014873 [Matalan] WMOS - User cannot run waves. Waves issue. SQL Developer. DC
+KB0014591 [Matalan] How to proceed with order status change request (WMOS/E-comm)?
+KB0043353  [Matalan] Click and collect orders are failing to be manifest from WMOS to Nova
+KB0014758 [Matalan] WMOS 2018 - Corby DC WMOS issues. CDC
+KB0014138 Heap Usage Alert from WMoS
+",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC1852488,2021-11-01 18:55:49,cbyls001 not accesible / hardware issue,1 - Critical,Closed,IS - CG Wintel Backoffice,Standard Incident,"Name: Karolina Surdyga
+
+Details: cbyls001 not accesible / hardware issue
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+NOTE: When logging a call with a 3rd Party/ resolving team, please MAKE SURE that the below details are included in the email:
+- Contact Name: 
+- Contact Number: 
+- Head Office / Store (Delete as appropriate) 
+- Store Number (If applicable) 
+- Address: 
+- Postcode:
+- Problem Description:
+
+
+incase of optima issues:
+
+Party ID
+Email address
+Reward Card
+Full Name
+
+Any customer information that is sent to the support inbox must be sent in a password protected document and not listed within an email. 
+
+See KB below or, in case KB is missing, mark knowledge box:
+KB0014429 [Matalan] WinSCP - How to configure SFTP connection to Vitesse for DC users
+KB0014822 [Matalan] Weekend Reports - WSSI.
+KB0014771 [Matalan] Secure Trading Issue.
+KB0014816 [Matalan] Stakeholder Pensions.
+KB0014790 [Matalan] SQL Developer - ORACLE only available to users with RESTRICTED SESSION privilege
+KB0010758 [Matalan] Screen Diares Extract issue
+KB0011018 [Matalan] Power BI report issue
+KB0011017 [Matalan] Oracle - How to handle POREC file issues?
+KB0014751 [Matalan] Metapack error E20094 Unable to modify
+KB0014763 [Matalan] Marketing System.
+KB0014830 [Matalan] Booking System (DC Booking).
+KB0014366 [Matalan] How to proceed with Path/file access error (Spool File Retriever)?
+KB0014501 [Matalan] How to proceed with NexGen/ Proud to be Matalan website issue? (Matalan)
+KB0014243 [Matalan] How to proceed when User is not seeing any parameter options on the reports or any data (N
+KB0015055 [Matalan] How to proceed when user cannot open a video material (CCTV footage)?
+KB0014112 [Matalan] Unable to access .ERR files.
+KB0014410 [Matalan] How to handle Weaves issue - HASP key not found (H0007)?
+KB0014212 [Matalan] How to handle Missing partner articlenumber for Matalan (email)?
+KB0014610 [Matalan] How to handle issue with Spool File Retriever? Error: Could not find the FTP command file.
+KB0014513 [Matalan] How to handle Air Conditioning Unit issues in DC (server room)?
+KB0014861 [Matalan] How to deal with IBM Cognos report issue? The operation failed error message.
+KB0014753 [Matalan] Dematic Maintenance - unable to access the Hanging Garment servers via VPN.
+KB0014834 [Matalan] Debit Note System.
+KB0014729 [Matalan] Citrix issue Citrix plug-in installation
+KB0014782 [Matalan] ATC daily sales (Daily sales report).
+KB0015764 [Matalan] BI Report - How to proceed with BI Batch email / sending Comm's / batch delay",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC1788445,2021-10-19 14:20:40,WMOS 2018 Issue KDC Pocket Sorter Outage,1 - Critical,Closed,Apps - CG WM0S 2018,Issue with software: WMOS 2018,"*** Please fill in below information as these are important for automation purposes ***
+For Maintel tickets:
+
+Description: 
+Troubleshooting Steps: 
+Error codes: 
+Description of Configuration Item: 
+Impact:
+
+IMPORTANT FOR DC: In case of HPI, please obtain below information:
+If the issue is not resolved soon, how will it impact DC operations? May the incident cause a complete and immediate work stoppage affecting whole DC?
+
+User Name:-    Craig Rood
+
+User ID:-    rood_c@matalan.co.uk
+
+1. Problem:-    Can you please raise a P1 call for the KDC Pocket Sorter.
+
+Sorter stopped processing runs correctly and locked up.
+Operatives were also unable to induct any further product.
+
+Teams from Matalan and Durkopp are currently looking at the issue.
+Business impact: currently unable to work
+Craig extension number: 6899
+
+2. Priority Required:- P1
+ 
+3. Potential Impact Now:- KDC unable to work
+
+4. Potential Impact if not resolved within 2 hours:-  KDC unable to work
+
+5. If this is relating to a report issue, what is the name of the report?:-       n/a
+6. Is this a single user / multiple user issue?    multiple
+(If multiple users are affected, can they provide few user-ids)
+
+7. Is the whole DC experiencing the problem or one particular Department?   the   whole DC
+
+8. What type of device is being used e.g. Scanner  
+If they issue is with scanner, have they checked the scanner & nearby access point signal? Is it at good strength?   
+
+9. Can you access the WMoS screen on the PC?
+
+10. What time the issue started:
+
+11. What were you doing when the issue occurred and which screen were you accessing, menu option etc.      
+
+12. At what point did the task fail?       
+
+13. Are there any error messages, any DB error message(if possible attach screenshot or text message):-      
+
+14. If it's a hanging task, did it stop midway through?       
+
+15. Any other relevant information -       
+
+16. **KNOWSLEY DC ONLY READ FOLLOWING STATEMENTS FULLY** 
+DC management state that if performance is affected then a restart is required!
+
+Given this requirement what time would be best for the DC to take an outage of approx 1 hour? 
+an email to the DC Manager will be required to confirm this information, especially if they say the restart is not required.
+Speak to Team Leader to advise of issue.
+
+INFORMATION    All calls should be assigned to the WMOS2008 queue for initial assessment and re-assignment if necessary.  
+
+Hardware is on a HP Platform and is supported by Offshore HPUX Team.    
+
+Webservers are supported by the Wintel Server Desktop Team.    
+
+Manhattan provide 3rd line support for the WMOS Application. The WMOS Team will determine whether or not the call needs to be logged to Manhattan.        
+
+KB0014198 [Matalan] E-Commerce Orders checking.
+KB0014602 [Matalan] How to proceed when Orders do not go through from WM system to Nova?
+KB0014810  [Matalan] How to proceed with WMOS system failure? Warehouse Management System- WMOS (WM). Server issue.
+KB0014740  [Matalan] WMOS in Galaxy and Corby- access links.
+KB0014486 [Matalan] WMOS - How to proceed ILPN/ LPN/ oLPN issues (DC)?
+KB0014873 [Matalan] WMOS - User cannot run waves. Waves issue. SQL Developer. DC
+KB0014591 [Matalan] How to proceed with order status change request (WMOS/E-comm)?
+KB0043353  [Matalan] Click and collect orders are failing to be manifest from WMOS to Nova
+KB0014758 [Matalan] WMOS 2018 - Corby DC WMOS issues. CDC
+KB0014138 Heap Usage Alert from WMoS
+",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC1612244,2021-09-17 14:33:53,E-Comm: Issue <e-Comm Order Flow from Website to NOVA has stopped>,1 - Critical,Closed,Apps - CG ESB Support,Issue with E-commerce,"IMPORTANT FOR DC: In case of HPI, please obtain below information:
+If the issue is not resolved soon, how will it impact DC operations? May the incident cause a complete and immediate work stoppage affecting whole DC?
+
+Logged By:-    Aditya Jha
+Name   Aditya Jha
+Email address -      n/a
+Contact number-
+Issue - e-Comm Order Flow from Website to NOVA has stopped
+We are again receiving alerts for web order not flowing to NOVA.
+Last order received in NOVA is
+17-SEP-21 13.27.04 46436644
+
+Is general Network access affect i.e.
+• Can you send and receive emails on a PC?
+• Access the internet on a PC?
+• Access Nova?
+
+CUSTOMER ORDER ISSUE; 
+If the issue is relating to an issue with a customer order, please make sure you have fully completed the template below before logging a call to CG Multichannel Support:
+Logged By:-    
+1. Name/Customer ID -     
+2. Email address -    
+3. Browser & version being used, e.g. Internet Explorer version 6 -    
+4. Date and time stamp (this is very important for checking the logs) -     
+5. Description of the issue detailing any error messages -    
+6. How long has the site been active e.g. when did they log in and add the item to their basket? - 
+7. Test instructions where possible -     
+8. A screenshot if they are IT savvy -    
+
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+IMPORTANT for C&C: 
+Logged By:-    
+Name   
+Contact number-
+Order number: 
+Issue 
+
+Please see:
+KB0014198 [Matalan] E-Commerce Orders checking.
+KB0014440 [Matalan] How to proceed with a metapack label printing fault?
+KB0014474 [Matalan] How to proceed with Metapac error unable to create paperwork (the meta pack failed to print)?
+KB0014401 [Matalan] How to log/close a call on MetaPack Customer Portal (Incident, Change Request or Information Request)?
+KB0014602   [Matalan] How to proceed when Orders do not go through from WM system to Nova? Orders bridged.
+
+
+
+",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC1444507,2021-08-12 10:40:49,The Toy Shop: Zebra TPP have been accidently blocked from the device,2 - High,Closed,IS - CG Service Desk,Issue with The Toy Shop Zebra,"Name: Leanne
+Issue: TPP have been accidently blocked from the device
+
+NOTE: Perform  basic troubleshooting provided in below KBAs. If the issue cannot be resolved, please advise the store to contact their Area Manager who in turn will log a call directly to The Entertainer Please contact The Pricing People Helpdesk.
+
+Please close the call once confirmed with user that the issue is resolved.
+
+Please see:
+KB0014598 [Matalan] The Entertainer (The Toy Shop) Zebra user guide.
+KB0014205 [Matalan] How to clean Zebra Mobile Label Printer (the Entertainer - The Toy Shop)?",Matalan,3 - Moderate/Limited,1 - Critical,3rd Party – Maintel (In Progress)
+INC1609790,2021-09-17 07:32:28,Customers are receiving Error Messages when accessing or going between pages on the Matalan Website,1 - Critical,Closed,Apps - CG Multichannel Support,Issue with Software: Multichannel,"Name: Aditya
+
+Store Number: n/a
+
+Issue: Matalan site is having issues
+
+N.B
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+Please see:
+KB0014553 [Matalan] How to proceed when Matalan website is down (DOWN alert: Matalan - Live (www.matalan.co.uk
+KB0014521 [Matalan] How to proceed when user cannot access Matalan website?
+KB0014386 [Matalan] How to proceed with SHIFT (CTG/ CTS/ FLEX ) Matalan website request/issue?
+KB0014411 [Matalan] How to handle Matalan Application issue? Reward Card App.",Matalan,1 - Extensive/Widespread,1 - Critical,3rd Party - Shift (Pending)
+INC1571334,2021-09-08 12:11:58,Issue with Network/Connectivity: Head Office / DC/ Stores,1 - Critical,Closed,IS - CG Service Desk,Issue with Network/Connectivity: Head Office / DC,"*** Please fill in below information as these are important for automation purposes ***
+For Maintel tickets:
+
+Description: 
+Troubleshooting Steps: 
+Error codes: 
+Description of Configuration Item: 
+Impact:
+
+User:    
+Extension Number: 
+Fault:   
+
+Additional Question:
+User ID:-      
+1. What is the problem?
+2.  What is the business impact?
+(Describe business impact on the company) 
+- How does the problem affect your daily work?
+- What is the business function of the system?)
+3. Is this a single user / multiple user issue?    
+(If multiple users are affected, can they provide few user-IDs)
+4. Is there any workaround?
+5. Have you tested it on another PC?
+
+KB0014377 [Matalan] Network issue in Distribution Centre/ Head Office.? 
+KB0014510 [Matalan] How to check LAN/ WAN status? Network issue.
+KB0014312 [Matalan] How to proceed with Router Hardware issue?""
+",Matalan,1 - Extensive/Widespread,1 - Critical,3rd Party – Maintel (In Progress)
+INC1497018,2021-08-23 20:56:34,PC no example M41779 Hardware Issue - <Stuck on windows welcome screen>,1 - Critical,Closed,IS - L2-NetworkNEU_Tower,Issue with PC in Distribution Center (DC),"REMEMBER: Broken PCs do not need any form or IT Service Delivery approval or IT Request Form.
+
+Name:-    James
+Fault:-    All PCs in Knowsley DCcrushed and after restart stuck on welcome screen 
+Problem:-   Performance 
+PC Number:-   example  M41779 
+Department / Location:-   Knowsley DC
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+Ensure user's details are correct in SNOW.    
+
+Update fix history with all checks, assign to Bell IT Desktop Team if the fault remains. 
+
+
+Please see:
+KB0014828 [Matalan] How to proceed with broken hardware? Desktop PC issue. Store Back Office/ Front Office/ISS PC. Head Office (HO). Distribution Center (DC) PC.
+KB0014527 [Matalan] How to check if PC is online? PC offline. How to connect to a desktop PC?
+KB0015056 [Matalan] PC Boot up delay – PC issue.
+KB0014146 [Matalan] How to proceed when a disk cleanup needs to be performed on a PC?
+KB0014560 [Matalan] How to proceed when user is unable to log into PC due to an error message: Group Policy Client service failed to logon?
+KB0014668 [Matalan] Windows - Profile storage space window error
+KB0014125 [Matalan] PC issue - Files Videos Music do not load in a browser. Sound issue
+KB0014143 [Matalan] PC Rebuild - Anti Virus EPO update. How to proceed with PC that has been rebuilt and is aw
+KB0015756 [Matalan] How to reboot NetGear/ 3Com switch in store (network issue)? Switch issue.
+
+
+",Matalan,2 - Significant/Large,1 - Critical,
+INC1311626,2021-07-16 09:25:52,All Toshiba Till Printer - No receipt is getting printed,1 - Critical,Closed,IS - CG Service Desk,Issue with Toshiba Till: Printer (EPOS),"*** Please fill in below information as these are important for automation purposes ***
+
+Name:  Karen
+Issue: no final receipt is not getting printed
+Product ID: MTLTO6140-16
+Tag Id: n/a
+Problem Code: PRINT
+ 
+•Till:- all    
+•LED:-     
+•Feeding paper:-      
+•Are there any lights on printer?:-   
+•Is there paper in the printer?:-   
+•Does paper feed through ok?:-
+***This can be fed through by pressing the feed button on the printer.***
+If printing blank receipts - is the paper installed the correct way round?:-
+
+Please see: 
+KB0014358 [Matalan] How to check transaction on new EPOS (Toshiba Till)? How to print a receipt?
+KB0014658 [Matalan] How to troubleshoot Toshiba till printer and cash drawer? Cash drawer / Printer issue.",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC1271910,2021-07-08 14:41:14,<Additional load for tonight 07.07.21>,1 - Critical,Closed,IS - CG Service Desk,Standard Incident,"Name: Anthony Keough
+
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+NOTE: When logging a call with a 3rd Party/ resolving team, please MAKE SURE that the below details are included in the email:
+- Contact Name: 
+- Contact Number: 
+- Head Office / Store (Delete as appropriate) 
+- Store Number (If applicable) 
+- Address: 
+- Postcode:
+- Problem Description:
+
+
+incase of optima issues:
+
+Party ID
+Email address
+Reward Card
+Full Name
+
+Any customer information that is sent to the support inbox must be sent in a password protected document and not listed within an email. 
+
+See KB below or, in case KB is missing, mark knowledge box:
+KB0014429 [Matalan] WinSCP - How to configure SFTP connection to Vitesse for DC users
+KB0014822 [Matalan] Weekend Reports - WSSI.
+KB0014771 [Matalan] Secure Trading Issue.
+KB0014816 [Matalan] Stakeholder Pensions.
+KB0014790 [Matalan] SQL Developer - ORACLE only available to users with RESTRICTED SESSION privilege
+KB0010758 [Matalan] Screen Diares Extract issue
+KB0011018 [Matalan] Power BI report issue
+KB0011017 [Matalan] Oracle - How to handle POREC file issues?
+KB0014751 [Matalan] Metapack error E20094 Unable to modify
+KB0014763 [Matalan] Marketing System.
+KB0014830 [Matalan] Booking System (DC Booking).
+KB0014366 [Matalan] How to proceed with Path/file access error (Spool File Retriever)?
+KB0014501 [Matalan] How to proceed with NexGen/ Proud to be Matalan website issue? (Matalan)
+KB0014243 [Matalan] How to proceed when User is not seeing any parameter options on the reports or any data (N
+KB0015055 [Matalan] How to proceed when user cannot open a video material (CCTV footage)?
+KB0014112 [Matalan] Unable to access .ERR files.
+KB0014410 [Matalan] How to handle Weaves issue - HASP key not found (H0007)?
+KB0014212 [Matalan] How to handle Missing partner articlenumber for Matalan (email)?
+KB0014610 [Matalan] How to handle issue with Spool File Retriever? Error: Could not find the FTP command file.
+KB0014513 [Matalan] How to handle Air Conditioning Unit issues in DC (server room)?
+KB0014861 [Matalan] How to deal with IBM Cognos report issue? The operation failed error message.
+KB0014753 [Matalan] Dematic Maintenance - unable to access the Hanging Garment servers via VPN.
+KB0014834 [Matalan] Debit Note System.
+KB0014729 [Matalan] Citrix issue Citrix plug-in installation
+KB0014782 [Matalan] ATC daily sales (Daily sales report).
+KB0015764 [Matalan] BI Report - How to proceed with BI Batch email / sending Comm's / batch delay",Matalan,1 - Extensive/Widespread,1 - Critical,3rd Party – Maintel (In Progress)
+INC1248585,2021-07-05 06:23:17,No Network on Windows 7 in CDC,1 - Critical,Closed,IS - CG Wintel Backoffice,Issue with Network/Connectivity: Head Office / DC,"User:     Surdyga_K ( Surdyga_K@matalan.co.uk)
+Extension Number:  01536273326 (user is working night shift, but somebody else under this phone can provide additional information if that was needed)
+Fault:   Users which are still using Windows 7, have trouble with unstable network connection. 
+
+Additional Question:
+User ID:-    Surdyga_K  
+1. What is the problem? Users with Win 7 have connection issues, network keeps on disconnecting. Sometimes it's on and sometimes it isn't
+2.  What is the business impact?  -- users cannot access data/ applications which are necessary to work on their shift when network is cut off. But network is sometimes on and sometimes it's not. 
+(Describe business impact on the company) 
+- How does the problem affect your daily work? yes
+- What is the business function of the system?) //
+3. Is this a single user / multiple user issue?    //  12
+(If multiple users are affected, can they provide few user-IDs) ////  chak , mois // Milne_D // Mild 
+4. Is there any workaround? No 
+5. Have you tested it on another PC? Yes 
+
+asset tag:   M42753,  ... M42753 / M41485
+
+Update: Users are using LAN, users are unable to switch to Wifi 
+
+
+KB0014377 [Matalan] Network issue in Distribution Centre/ Head Office.? 
+KB0014510 [Matalan] How to check LAN/ WAN status? Network issue.
+KB0014312 [Matalan] How to proceed with Router Hardware issue?""
+",Matalan,2 - Significant/Large,1 - Critical,3rd Party – Maintel (In Progress)
+INC1230993,2021-07-01 15:34:31,WMOS 2018 Issue Metapack does not print shipping labels,1 - Critical,Closed,Apps - CG WM0S 2018,Issue with software: WMOS 2018,"IMPORTANT FOR DC: In case of HPI, please obtain below information:
+If the issue is not resolved soon, how will it impact DC operations? May the incident cause a complete and immediate work stoppage affecting whole DC?
+
+User Name:-    Daiga Runcite
+
+User ID:-    n/a
+
+1. Problem:-    In packing area meta pack does not printing home delivery ( shipping) labels. Click and Collect orders seem to be fine. This issue is stopping us from despatching orders, and also Next day delivery orders potentially might fail their delivery.
+
+2. Priority Required:- P1
+ 
+3. Potential Impact Now:-cannot dispatch orders
+
+4. Potential Impact if not resolved within 2 hours:-  Next day delivery orders potentially might fail their delivery.
+
+5. If this is relating to a report issue, what is the name of the report?:-       n/a
+
+6. Is this a single user / multiple user issue?    multiple
+(If multiple users are affected, can they provide few user-ids)
+
+7. Is the whole DC experiencing the problem or one particular Department?      packing area
+
+8. What type of device is being used e.g. Scanner  
+If they issue is with scanner, have they checked the scanner & nearby access point signal? Is it at good strength?   
+
+9. Can you access the WMoS screen on the PC?
+
+10. What time the issue started:
+
+11. What were you doing when the issue occurred and which screen were you accessing, menu option etc.      
+
+12. At what point did the task fail?       
+
+13. Are there any error messages, any DB error message(if possible attach screenshot or text message):-      
+
+14. If it's a hanging task, did it stop midway through?       
+
+15. Any other relevant information -       
+
+16. **KNOWSLEY DC ONLY READ FOLLOWING STATEMENTS FULLY** 
+DC management state that if performance is affected then a restart is required!
+
+Given this requirement what time would be best for the DC to take an outage of approx 1 hour? 
+an email to the DC Manager will be required to confirm this information, especially if they say the restart is not required.
+Speak to Team Leader to advise of issue.
+
+INFORMATION    All calls should be assigned to the WMOS2008 queue for initial assessment and re-assignment if necessary.  
+
+Hardware is on a HP Platform and is supported by Offshore HPUX Team.    
+
+Webservers are supported by the Wintel Server Desktop Team.    
+
+Manhattan provide 3rd line support for the WMOS Application. The WMOS Team will determine whether or not the call needs to be logged to Manhattan.        
+
+KB0014198 [Matalan] E-Commerce Orders checking.
+KB0014602 [Matalan] How to proceed when Orders do not go through from WM system to Nova?
+KB0014810  [Matalan] How to proceed with WMOS system failure? Warehouse Management System- WMOS (WM). Server issue.
+KB0014740  [Matalan] WMOS in Galaxy and Corby- access links.
+KB0014486 [Matalan] WMOS - How to proceed ILPN/ LPN/ oLPN issues (DC)?
+KB0014873 [Matalan] WMOS - User cannot run waves. Waves issue. SQL Developer. DC
+KB0014591 [Matalan] How to proceed with order status change request (WMOS/E-comm)?
+KB0014758 [Matalan] WMOS 2018 - Corby DC WMOS issues. CDC
+KB0014138 Heap Usage Alert from WMoS
+",Matalan,1 - Extensive/Widespread,1 - Critical,3rd Party - Metapacks (Pending)
+INC1182803,2021-06-23 06:08:04,Multichannel Issue Delay in Shift absolute inventory file,1 - Critical,Closed,Apps - CG Multichannel Support,Issue with Software: Multichannel,"Name: Madhavi E
+
+Store Number:
+
+Issue: The Product price and Shift absolute inventory interfaces not completed yet and we have raised with shift on the same.
+Can someone please raise a P2 
+
+N.B
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+Please see:
+KB0014553 [Matalan] How to proceed when Matalan website is down (DOWN alert: Matalan - Live (www.matalan.co.uk
+KB0014521 [Matalan] How to proceed when user cannot access Matalan website?
+KB0014386 [Matalan] How to proceed with SHIFT (CTG/ CTS/ FLEX ) Matalan website request/issue?
+KB0014411 [Matalan] How to handle Matalan Application issue? Reward Card App.",Matalan,1 - Extensive/Widespread,1 - Critical,3rd Party - Shift (Pending)
+INC1121925,2021-06-12 18:14:37,Oracle DB patch on CDC has been Failed,1 - Critical,Closed,Apps - CG WM0S 2018,Issue with software: WMOS 2018,"IMPORTANT FOR DC: In case of HPI, please obtain below information:
+If the issue is not resolved soon, how will it impact DC operations? May the incident cause a complete and immediate work stoppage affecting whole DC?
+
+User Name:-    Kaveri Arapuri
+
+User ID:-    kaveri.arapuri@capgemini.com
+
+1. Problem:-    Oracle DB Patch into CDC has been failed while deploying the patch into CDC.
+
+2. Priority Required:- P1
+ 
+3. Potential Impact Now:-
+
+4. Potential Impact if not resolved within 2 hours:- 
+
+5. If this is relating to a report issue, what is the name of the report?:-       
+
+6. Is this a single user / multiple user issue?    
+(If multiple users are affected, can they provide few user-ids)
+
+7. Is the whole DC experiencing the problem or one particular Department?      
+
+8. What type of device is being used e.g. Scanner  
+If they issue is with scanner, have they checked the scanner & nearby access point signal? Is it at good strength?   
+
+9. Can you access the WMoS screen on the PC?
+
+10. What time the issue started:
+
+11. What were you doing when the issue occurred and which screen were you accessing, menu option etc.      
+
+12. At what point did the task fail?       
+
+13. Are there any error messages, any DB error message(if possible attach screenshot or text message):-      
+
+14. If it's a hanging task, did it stop midway through?       
+
+15. Any other relevant information -       
+
+16. **KNOWSLEY DC ONLY READ FOLLOWING STATEMENTS FULLY** 
+DC management state that if performance is affected then a restart is required!
+
+Given this requirement what time would be best for the DC to take an outage of approx 1 hour? 
+an email to the DC Manager will be required to confirm this information, especially if they say the restart is not required.
+Speak to Team Leader to advise of issue.
+
+INFORMATION    All calls should be assigned to the WMOS2008 queue for initial assessment and re-assignment if necessary.  
+
+Hardware is on a HP Platform and is supported by Offshore HPUX Team.    
+
+Webservers are supported by the Wintel Server Desktop Team.    
+
+Manhattan provide 3rd line support for the WMOS Application. The WMOS Team will determine whether or not the call needs to be logged to Manhattan.        
+
+KB0014198 [Matalan] E-Commerce Orders checking.
+KB0014602 [Matalan] How to proceed when Orders do not go through from WM system to Nova?
+KB0014810  [Matalan] How to proceed with WMOS system failure? Warehouse Management System- WMOS (WM). Server issue.
+KB0014740  [Matalan] WMOS in Galaxy and Corby- access links.
+KB0014486 [Matalan] WMOS - How to proceed ILPN/ LPN/ oLPN issues (DC)?
+KB0014873 [Matalan] WMOS - User cannot run waves. Waves issue. SQL Developer. DC
+KB0014591 [Matalan] How to proceed with order status change request (WMOS/E-comm)?
+KB0014758 [Matalan] WMOS 2018 - Corby DC WMOS issues. CDC
+KB0014138 Heap Usage Alert from WMoS
+",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC1000415,2021-05-24 10:32:45,WMOS 2018 Issue - hour delay with the next day order from nova to WM0S,1 - Critical,Closed,Apps - CG WM0S 2018,Issue with software: WMOS 2018,"IMPORTANT FOR DC: In case of HPI, please obtain below information:
+If the issue is not resolved soon, how will it impact DC operations? May the incident cause a complete and immediate work stoppage affecting whole DC?
+
+User Name:-    Marc Powell
+
+User ID:-    
+
+1. Problem:-    Marc called to report that they have got an hour delay with the next day order from nova to WM0S and the p2 is required.
+
+2. Priority Required:-p2
+ 
+3. Potential Impact Now:-
+
+4. Potential Impact if not resolved within 2 hours:- 
+
+5. If this is relating to a report issue, what is the name of the report?:-       
+
+6. Is this a single user / multiple user issue?    
+(If multiple users are affected, can they provide few user-ids)
+
+7. Is the whole DC experiencing the problem or one particular Department?      
+
+8. What type of device is being used e.g. Scanner  
+If they issue is with scanner, have they checked the scanner & nearby access point signal? Is it at good strength?   
+
+9. Can you access the WMoS screen on the PC?
+
+10. What time the issue started:
+
+11. What were you doing when the issue occurred and which screen were you accessing, menu option etc.      
+
+12. At what point did the task fail?       
+
+13. Are there any error messages, any DB error message(if possible attach screenshot or text message):-      
+
+14. If it's a hanging task, did it stop midway through?       
+
+15. Any other relevant information -       
+
+16. **KNOWSLEY DC ONLY READ FOLLOWING STATEMENTS FULLY** 
+DC management state that if performance is affected then a restart is required!
+
+Given this requirement what time would be best for the DC to take an outage of approx 1 hour? 
+an email to the DC Manager will be required to confirm this information, especially if they say the restart is not required.
+Speak to Team Leader to advise of issue.
+
+INFORMATION    All calls should be assigned to the WMOS2008 queue for initial assessment and re-assignment if necessary.  
+
+Hardware is on a HP Platform and is supported by Offshore HPUX Team.    
+
+Webservers are supported by the Wintel Server Desktop Team.    
+
+Manhattan provide 3rd line support for the WMOS Application. The WMOS Team will determine whether or not the call needs to be logged to Manhattan.        
+
+KB0014198 [Matalan] E-Commerce Orders checking.
+KB0014602 [Matalan] How to proceed when Orders do not go through from WM system to Nova?
+KB0014810  [Matalan] How to proceed with WMOS system failure? Warehouse Management System- WMOS (WM). Server issue.
+KB0014740  [Matalan] WMOS in Galaxy and Corby- access links.
+KB0014486 [Matalan] WMOS - How to proceed ILPN/ LPN/ oLPN issues (DC)?
+KB0014873 [Matalan] WMOS - User cannot run waves. Waves issue. SQL Developer. DC
+KB0014591 [Matalan] How to proceed with order status change request (WMOS/E-comm)?
+KB0014758 [Matalan] WMOS 2018 - Corby DC WMOS issues. CDC
+KB0014138 Heap Usage Alert from WMoS
+",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC1095611,2021-06-08 11:01:59,Matalan website and mobile app are down,1 - Critical,Closed,Apps - CG Multichannel Support,Issue with Software: Multichannel,"Name:Liam
+
+Store Number: n/a
+
+Issue:matalan.co.uk and mobile app are down; 503 service is unavaible
+
+N.B
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+Please see:
+KB0014553 [Matalan] How to proceed when Matalan website is down (DOWN alert: Matalan - Live (www.matalan.co.uk
+KB0014521 [Matalan] How to proceed when user cannot access Matalan website?
+KB0014386 [Matalan] How to proceed with SHIFT (CTG/ CTS/ FLEX ) Matalan website request/issue?
+KB0014411 [Matalan] How to handle Matalan Application issue? Reward Card App.",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0970643,2021-05-18 11:01:03,Request for Clearing Network Drive / Disk Space,1 - Critical,Closed,IS - CG UK Offshore.Storage,Request for Clearing Network Drive / Disk Space,"Network Drive -  No disk space users are unable to save 
+
+Planning drive
+Server HOSRV051f
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+
+Please see : How to proceed when a network drive is full?",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0941965,2021-05-11 13:02:11,Probable Policy violation and PII,1 - Critical,Closed,IS - CG GSOC IT Security,Security breach issue,"User:
+
+Issue:
+
+Please contact first Incident Manager or Senior Agent. Do not raise HPI without any consultations.
+
+Follow one of below KBA:
+KB0014162  [Matalan] Security breach. Email sent by Matalan user from other domain than Matalan (@matalan.co.uk
+KB0014163 [Matalan] How to proceed with a Phishing email? Suspicious email with attachment.
+You do have access to snow, right? Otherwise, I'll send word versions.
+",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0951490,2021-05-13 14:12:44,WMOS 2018 Issue (Metapack does not printing any shipping labels),1 - Critical,Closed,Apps - CG WM0S 2018,Issue with software: WMOS 2018,"IMPORTANT FOR DC: In case of HPI, please obtain below information:
+If the issue is not resolved soon, how will it impact DC operations? May the incident cause a complete and immediate work stoppage affecting whole DC?
+
+User Name:-    DAIGA RUNCITE
+
+User ID:-    Runcite_D
+
+Tel:- 0151556 6626
+
+1. Problem:-    Metapack does not printing any shipping labels. Also consolidation area affected. Receiving message on the scanner screens- Matapack request to add parcel or print lable , failed or took too long. ( We are unable to despatch anything from eCommerce)
+
+Packers does not have any error messages on their screens
+
+
+2. Priority Required:- P1
+ 
+3. Potential Impact Now:-Impact - possible Next day order delivery failure, Standard + Click and Collect SLA order failure.
+
+
+4. Potential Impact if not resolved within 2 hours:- 
+
+5. If this is relating to a report issue, what is the name of the report?:-       
+
+6. Is this a single user / multiple user issue?    
+(If multiple users are affected, can they provide few user-ids)
+
+7. Is the whole DC experiencing the problem or one particular Department?      
+
+8. What type of device is being used e.g. Scanner  
+If they issue is with scanner, have they checked the scanner & nearby access point signal? Is it at good strength?   
+
+9. Can you access the WMoS screen on the PC?
+
+10. What time the issue started:
+
+11. What were you doing when the issue occurred and which screen were you accessing, menu option etc.      
+
+12. At what point did the task fail?       
+
+13. Are there any error messages, any DB error message(if possible attach screenshot or text message):-      
+
+14. If it's a hanging task, did it stop midway through?       
+
+15. Any other relevant information -       
+
+16. **KNOWSLEY DC ONLY READ FOLLOWING STATEMENTS FULLY** 
+DC management state that if performance is affected then a restart is required!
+
+Given this requirement what time would be best for the DC to take an outage of approx 1 hour? 
+an email to the DC Manager will be required to confirm this information, especially if they say the restart is not required.
+Speak to Team Leader to advise of issue.
+
+INFORMATION    All calls should be assigned to the WMOS2008 queue for initial assessment and re-assignment if necessary.  
+
+Hardware is on a HP Platform and is supported by Offshore HPUX Team.    
+
+Webservers are supported by the Wintel Server Desktop Team.    
+
+Manhattan provide 3rd line support for the WMOS Application. The WMOS Team will determine whether or not the call needs to be logged to Manhattan.        
+
+KB0014198 [Matalan] E-Commerce Orders checking.
+KB0014602 [Matalan] How to proceed when Orders do not go through from WM system to Nova?
+KB0014810  [Matalan] How to proceed with WMOS system failure? Warehouse Management System- WMOS (WM). Server issue.
+KB0014740  [Matalan] WMOS in Galaxy and Corby- access links.
+KB0014486 [Matalan] WMOS - How to proceed ILPN/ LPN/ oLPN issues (DC)?
+KB0014873 [Matalan] WMOS - User cannot run waves. Waves issue. SQL Developer. DC
+KB0014591 [Matalan] How to proceed with order status change request (WMOS/E-comm)?
+KB0014758 [Matalan] WMOS 2018 - Corby DC WMOS issues. CDC
+KB0014138 Heap Usage Alert from WMoS
+",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0948216,2021-05-12 16:28:21,Multichannel Issue <Matalan website down>,1 - Critical,Closed,Apps - CG Multichannel Support,Issue with Software: Multichannel,"Name: Liam
+
+Store Number:
+
+Issue: Liam called to report that Matalan website is down. Main page loading other options doesn't work. Error message 503 time out
+
+N.B
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+Please see:
+KB0014553 [Matalan] How to proceed when Matalan website is down (DOWN alert: Matalan - Live (www.matalan.co.uk
+KB0014521 [Matalan] How to proceed when user cannot access Matalan website?
+KB0014386 [Matalan] How to proceed with SHIFT (CTG/ CTS/ FLEX ) Matalan website request/issue?
+KB0014411 [Matalan] How to handle Matalan Application issue? Reward Card App.",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0840401,2021-04-23 11:39:09,Multichannel Issue :Matalan Website Cached Areas Are Failing To Load,1 - Critical,Closed,Apps - CG Multichannel Support,Issue with Software: Multichannel,"Name: Liam Russell
+
+Store Number: n/a
+
+Issue: Matalan website is currently down. Any uncached areas such as search, add to bag, checkout or my account are failing to load
+
+
+N.B
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+Please see:
+KB0014553 [Matalan] How to proceed when Matalan website is down (DOWN alert: Matalan - Live (www.matalan.co.uk
+KB0014521 [Matalan] How to proceed when user cannot access Matalan website?
+KB0014386 [Matalan] How to proceed with SHIFT (CTG/ CTS/ FLEX ) Matalan website request/issue?
+KB0014411 [Matalan] How to handle Matalan Application issue? Reward Card App.",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0826103,2021-04-21 10:45:37,"Network cab in W1 area in CDC is down, request for P1",1 - Critical,Closed,IS - CG Service Desk,Issue with Network/Connectivity: Head Office / DC,"User:    Danielle
+Extension Number: 01536273326
+Fault:   Network cab in W1 area in CDC is down, request for P1
+
+Additional Question:
+User ID:-      
+1. What is the problem?
+2.  What is the business impact?
+(Describe business impact on the company) 
+- How does the problem affect your daily work?
+- What is the business function of the system?)
+3. Is this a single user / multiple user issue?    
+(If multiple users are affected, can they provide few user-IDs)
+4. Is there any workaround?
+5. Have you tested it on another PC?
+
+KB0014377 [Matalan] Network issue in Distribution Centre/ Head Office.? 
+KB0014510 [Matalan] How to check LAN/ WAN status? Network issue.
+KB0014312 [Matalan] How to proceed with Router Hardware issue?""
+",Matalan,1 - Extensive/Widespread,1 - Critical,3rd Party - Corby DC
+INC0792317,2021-04-14 10:13:55,Network outage at all Matalan sites ,1 - Critical,Closed,IS - CG Service Desk,Issue with Network/Connectivity: Head Office / DC,"User:    Nicola McKenna
+Extension Number: 6543
+Fault:   internet went down
+
+Additional Question:
+User ID:-      
+1. What is the problem?
+2.  What is the business impact?
+(Describe business impact on the company) 
+- How does the problem affect your daily work?
+- What is the business function of the system?)
+3. Is this a single user / multiple user issue?    
+(If multiple users are affected, can they provide few user-IDs)
+4. Is there any workaround?
+5. Have you tested it on another PC?
+
+KB0014377 [Matalan] Network issue in Distribution Centre/ Head Office.? 
+KB0014510 [Matalan] How to check LAN/ WAN status? Network issue.
+KB0014312 [Matalan] How to proceed with Router Hardware issue?""
+",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0695532,2021-03-23 12:42:43,Multi-stage Security  incident ,2 - High,Closed,IS - CG Wintel Backoffice,Security alerts,"User name / mailbox name:  Zchan_p
+Issue / Alert description: Multi-stage incident involving Initial access & Discovery on multiple endpoints reported by multiple sources.
+This user has been suspended by Matalan ,this user has no login attempts so its presumed that it is used in some script which uses the Credentials to do scans .
+
+Follow one of below KBA:
+KB0012155 [Matalan] Office 365 - Security alert: Unusual File/Folder Activity
+KB0012148 [Matalan] Office 365 - Security alert: A Low Severity Alert: RecipientRateLimitExceeded",Matalan,3 - Moderate/Limited,1 - Critical,
+INC0724239,2021-03-29 06:59:06,Delay in ECOM Orders | ESB_B_900_20,1 - Critical,Closed,Apps - CG Multichannel Support,Auto Alert,"*Important: for Control-M alert please use Control-M as a Customer. Do not use Unknown User unless it is really impossible to identify a user!*
+
+Hi Team,
+
+Please note there are no ECOM orders received in ESB from KIBO for last '311' minutes.
+
+Please contact the Multichannel Support/ESBSupport team for this incident to review in delay of ECOM orders from KIBO.
+
+
+The last order received from KIBO is
+
+KIBO Order ID   : 170813281
+Status in ESB DB   : NEW
+Created Datetime   : 2021-03-29 01:42:21.42
+
+
+Regards,
+ESB Support Team
+
+-- 
+
+
+
+Please see:
+KB0014827  [Matalan] Control M (Control_M_alert). MAT Tivoli Autologged.
+KB0014553 [Matalan] How to proceed when Matalan website is down (DOWN alert: Matalan - Live (www.matalan.co.uk) is DOWN)? Matalan website issue/ request.
+KB0014880 [Matalan] ESB Tivoli autologs - Multichannel
+KB0014885 [Matalan] ESB Tivoli autologs Nova
+KB0014886 [Matalan] ESB Tivoli autologs - SEG2OSG
+KB0014887 [Matalan] ESB Tivoli autologs
+KB0010167 [Matalan] ESB - How to proceed with ESB excluded from automation?
+",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0729660,2021-03-30 08:23:28,Numero Email Issue,1 - Critical,Closed,IS - CG Wintel Backoffice,Issue with Software: Numero,"Reoccurrence of issue previously reported in INC0712754
+Name of User:- balamurali m
+
+Role:- MIM
+
+Store Number:- N/A
+
+Fault details:-  Numero/Lokulus Emails noy processing, this is impacting emails into Customer Services.
+
+Card number is provided in WI 
+
+Thanks in advance.
+
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6. Have you tested it on another PC?
+
+
+Please see:
+KB0014193 [Matalan] How to proceed with Numero website issues?
+KB0014712 [Matalan] How to contact with Numero? Logging a case with Numero support.
+KB0014196 [Matalan] How to proceed when user's access is not allowing the required/expected access (Numero)?
+KB0014295 [Matalan] How to proceed with Numero functionality (functional not customer data) issue? A Function/
+KB0014449 [Matalan] How to proceed when Numero Interactive is running slow?
+KB0014549 [Matalan] How to proceed when user requests to generate a CSR for a new SSL certificate as the curre",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0712754,2021-03-25 21:41:15,Numero Email Issue,1 - Critical,Closed,IS - CG Wintel Backoffice,Issue with Software: Numero,"Name of User:- balamurali m
+
+Role:- MIM
+
+Store Number:- N/A
+
+Fault details:-  Numero/Lokulus Emails noy processing, this is impacting emails into Customer Services.
+
+Card number is provided in WI 
+
+Thanks in advance.
+
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6. Have you tested it on another PC?
+
+
+Please see:
+KB0014193 [Matalan] How to proceed with Numero website issues?
+KB0014712 [Matalan] How to contact with Numero? Logging a case with Numero support.
+KB0014196 [Matalan] How to proceed when user's access is not allowing the required/expected access (Numero)?
+KB0014295 [Matalan] How to proceed with Numero functionality (functional not customer data) issue? A Function/
+KB0014449 [Matalan] How to proceed when Numero Interactive is running slow?
+KB0014549 [Matalan] How to proceed when user requests to generate a CSR for a new SSL certificate as the curre",Matalan,1 - Extensive/Widespread,2 - High,3rd Party - Numero (Pending)
+INC0674789,2021-03-18 15:34:45,SW Nova slowness,1 - Critical,Closed,CG CCP operations - L2,Issue with Software: Nova - Generic Issue,"**On Matalan Account if password needs to be shared over an email while account creation it is advisable to share the user id and password over separate email and only to the concerned person. Under no circumstances the password should be shared to one who is not authorized to use the same.**
+
+
+Name: 
+
+Issue: 
+Location : Other
+Please enter the location : All locations using Nova
+Contact number : 07817949862
+Affected service/device : Nova
+Issue you are having : Delays logging in and general performance issues. Taking nearly 1 minute to log into nova
+Steps to reproduce incident : Logging into not using userid and password
+Note: : Please add screenshot
+
+Nova/GUI Logon: 
+
+Programe Name: pennine/Nova/CRT
+
+Additional questions:    
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+IMPORTANT: If we have tills with the wrong PLU details, then a callout should be initiated to CG Retail Java Support to resolve, no matter how many tills are affected, support teams will support over the weekend.
+
+See also:
+KB0010293 [Matalan] How to handle issues with access to Nova?
+KB0014565  [Matalan] How to proceed when Nova Support requests new ticket creation that needs to be raised with K3?
+KB0014348  [Matalan] How to proceed with Nova Proj7 Environment Refresh request (Nova Training Database Refresh)?
+KB0014445  [Matalan] How to solve issue with file uploads into Nova (error message: File or Directory not found/ File in use by another process)?
+KB0014770  [Matalan] Code change – SDN (Software Delivery Number) Process (Nova and WMOS).
+KB0014237  [Matalan] Unable to print from Pennine/Nova.
+KB0014646  [Matalan] How to proceed with NOVA Weekly GFK Homeware Sales Extract (GFKWeekly_(DATE).CSV) issue?
+KB0014660  [Matalan] Order Printing - Unable to retrieve file from Pennine/ Nova error.
+KB0014300  [Matalan] Nova/ Pennine- Programs Not In Scope.
+KB0014534  [Matalan] Nova/ CRT/ Pennine Job Controllers error. How to proceed with the Nova/ CRT/ Pennine Job Controllers error? Job controller has not been fund? WMoS Job Controller (MAIFJCX)
+KB0014813  [Matalan] Nova/ CRT/ Pennine application – general overview.
+KB0014554  [Matalan] Nova/ Pennine manual. How to use Pennine / Nova
+KB0014661  [Matalan] Nova/ CRT/ Pennine – Terminate RF. User locked in session
+KB0014655  [Matalan] Nova - E-Comm PayPal Returns.
+KB0014618  [Matalan] How to cancel a print job in Pennine/ Nova?
+KB0014148  [Matalan] How to kill Nova session? Terminate session in Nova.
+KB0014612  [Matalan] Checking for Locks in Pennine/ Nova/ CRT. How to check Locks in Pennini/ Nova/ CRT?
+KB0014391  [Matalan] How to check if a Pennine/Nova Account is valid?
+KB0014540  [Matalan] How to turn on automatic logon to Nova application on your PC?
+KB0010132 [Matalan] Unable to print from Pennine/Nova.
+KB0014370 [Matalan] Nova / Pennine / CRT software / application issue
+KB0014821 [Matalan] IFGRN file processing issue.
+KB0014446 [Matalan] How to proceed with Hallmark Sales File?
+KB0014713 [Matalan] Ghost Ringfence Issue.
+KB0014762 [Matalan] Stock Database.
+",Matalan,1 - Extensive/Widespread,2 - High,3rd Party – Maintel (In Progress)
+INC0666869,2021-03-17 09:44:53,E-Comm: Issue issue with zebra printers ,1 - Critical,Closed,Apps - CG WM0S 2018,Issue with E-commerce,"IMPORTANT FOR DC: In case of HPI, please obtain below information:
+If the issue is not resolved soon, how will it impact DC operations? May the incident cause a complete and immediate work stoppage affecting whole DC?
+
+Logged By:-    
+Name   Clifford Lawrence
+Email address -      lawrence_c@matalan.co.uk
+Contact number- His number is: 07568429321 until 2 pm 01515566238 after 2pm.
+Issue - Can I raise a call with an ongoing issue INC0659615. The issue was ""resolved"" yesterday but the issue is still happening. The Zebra printers are failing to print any meta pack labels even after restarting the PC's.
+
+
+Is general Network access affect i.e.
+• Can you send and receive emails on a PC?
+• Access the internet on a PC?
+• Access Nova?
+
+CUSTOMER ORDER ISSUE; 
+If the issue is relating to an issue with a customer order, please make sure you have fully completed the template below before logging a call to CG Multichannel Support:
+Logged By:-    
+1. Name/Customer ID -     
+2. Email address -    
+3. Browser & version being used, e.g. Internet Explorer version 6 -    
+4. Date and time stamp (this is very important for checking the logs) -     
+5. Description of the issue detailing any error messages -    
+6. How long has the site been active e.g. when did they log in and add the item to their basket? - 
+7. Test instructions where possible -     
+8. A screenshot if they are IT savvy -    
+
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+IMPORTANT for C&C: 
+Logged By:-    
+Name   
+Contact number-
+Order number: 
+Issue 
+
+Please see:
+KB0014198 [Matalan] E-Commerce Orders checking.
+KB0014440 [Matalan] How to proceed with a metapack label printing fault?
+KB0014474 [Matalan] How to proceed with Metapac error unable to create paperwork (the meta pack failed to print)?
+KB0014401 [Matalan] How to log/close a call on MetaPack Customer Portal (Incident, Change Request or Information Request)?
+KB0014602   [Matalan] How to proceed when Orders do not go through from WM system to Nova? Orders bridged.
+
+
+
+",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0646993,2021-03-12 09:06:48,Salesforce platform issue <Not able to access>,1 - Critical,Closed,IS - CG Service Desk,Issue with Software: Salesforce,"Name:- Desislava / 00359882934990
+
+Store:- 60K users
+
+Role:- n/a
+
+Issue:- Desislava called to report that there is issue with social studio platform (salesforce platform). Screen stuck on loading. 
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+Please see : KB0014807 [Matalan] Salesforce - application overview",Matalan,1 - Extensive/Widespread,2 - High,3rd Party - Optima (Pending)
+INC0652827,2021-03-13 18:36:46,CDC is not accessible after DB patch ,1 - Critical,Closed,Apps - CG WM0S 2018,Standard Incident,"Name: Prashanth Varikala 
+
+Details:CDC is not accessible after DB patch 
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+NOTE: When logging a call with a 3rd Party/ resolving team, please MAKE SURE that the below details are included in the email:
+- Contact Name: 
+- Contact Number: 
+- Head Office / Store (Delete as appropriate) 
+- Store Number (If applicable) 
+- Address: 
+- Postcode:
+- Problem Description:
+
+See KB below or, in case KB is missing, mark knowledge box:
+KB0014429 [Matalan] WinSCP - How to configure SFTP connection to Vitesse for DC users
+KB0014822 [Matalan] Weekend Reports - WSSI.
+KB0014771 [Matalan] Secure Trading Issue.
+KB0014816 [Matalan] Stakeholder Pensions.
+KB0014790 [Matalan] SQL Developer - ORACLE only available to users with RESTRICTED SESSION privilege
+KB0010758 [Matalan] Screen Diares Extract issue
+KB0011018 [Matalan] Power BI report issue
+KB0011017 [Matalan] Oracle - How to handle POREC file issues?
+KB0014751 [Matalan] Metapack error E20094 Unable to modify
+KB0014763 [Matalan] Marketing System.
+KB0014830 [Matalan] Booking System (DC Booking).
+KB0014366 [Matalan] How to proceed with Path/file access error (Spool File Retriever)?
+KB0014501 [Matalan] How to proceed with NexGen/ Proud to be Matalan website issue? (Matalan)
+KB0014243 [Matalan] How to proceed when User is not seeing any parameter options on the reports or any data (N
+KB0015055 [Matalan] How to proceed when user cannot open a video material (CCTV footage)?
+KB0014112 [Matalan] Unable to access .ERR files.
+KB0014410 [Matalan] How to handle Weaves issue - HASP key not found (H0007)?
+KB0014212 [Matalan] How to handle Missing partner articlenumber for Matalan (email)?
+KB0014610 [Matalan] How to handle issue with Spool File Retriever? Error: Could not find the FTP command file.
+KB0014513 [Matalan] How to handle Air Conditioning Unit issues in DC (server room)?
+KB0014861 [Matalan] How to deal with IBM Cognos report issue? The operation failed error message.
+KB0014753 [Matalan] Dematic Maintenance - unable to access the Hanging Garment servers via VPN.
+KB0014834 [Matalan] Debit Note System.
+KB0014729 [Matalan] Citrix issue Citrix plug-in installation
+KB0014782 [Matalan] ATC daily sales (Daily sales report).",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0654727,2021-03-14 18:40:41,Meta pack system is not printing labels,1 - Critical,Closed,Apps - CG WM0S 2018,,"Hi,
+
+Can I please raise a call.
+
+Meta pack system is not printing labels therefore we have had to stop packing due to this issue. Can this be raised as a matter of priority as it's stopped the packing process within the eCommerce operation therefore we are unable to despatch.
+
+We have 38 orders that have not produced any labels.
+
+Once resolved can you please call me on 0151 556 6238 so we know we can resume packing.
+
+Regards,
+
+Ben Shipley
+eCommerce 4o4o N1 Supervisor
+MATALAN Perimeter Road, Knowsley Industrial Park, Liverpool L33 7SZ
+Telephone: 0151 556 6804
+Email: shipley_b@matalan.co.uk<mailto:shipley_b@matalan.co.uk>
+
+Join the team: www.matalan.jobs<http://www.matalan.jobs/>
+Please follow us & find out more about MATALAN
+[cid:image001.png@01D71900.B1D30510]<https://www.facebook.com/MatalanJobs/>  [cid:image002.png@01D71900.B1D30510] <https://www.linkedin.com/company/matalan/>   [cid:image003.png@01D71900.B1D30510] <https://www.instagram.com/matalanjobs/>   [cid:image004.png@01D71900.B1D30510] <https://twitter.com/matalanjobs>
+[cid:image005.png@01D71900.B1D30510]
+
+The information in this email (and any attachments) is confidential and is for the exclusive use and attention of the intended recipient. Access to or use of this email (and any attachments) by anyone else is unauthorised and prohibited. If you are not the intended recipient, please do not read, print, re-transmit, store or act on it or any of its attachments. Instead, please email it back to the sender and then permanently delete it. Any opinions presented are solely those of the author except where the message states otherwise and the sender is appropriately authorised by Matalan. Matalan accept no responsibility for any damage caused by any virus that may inadvertently be transmitted with this email. This email is sent on behalf of a company within the Matalan group of companies, which includes Matalan Retail Limited (company number 2103564) and Matalan Limited (company number 1579910), all of which are companies registered in England and Wales and who have their registered office at Perimeter Road, Knowsley Industrial Park, Kirkby, Knowsley L33 7SZ.",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0577927,2021-02-24 17:37:23,SW Nova <FCIU3632705 - Turkey-UAE - Not Uploaded>,2 - High,Closed,Apps - CG Nova Support,Issue with Software: Nova - Generic Issue,"**On Matalan Account if password needs to be shared over an email while account creation it is advisable to share the user id and password over separate email and only to the concerned person. Under no circumstances the password should be shared to one who is not authorized to use the same.**
+
+
+Name: Paul Hill
+
+Issue: FCIU3632705 - Turkey-UAE - Not Uploaded
+
+
+Additional questions:    
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+IMPORTANT: If we have tills with the wrong PLU details, then a callout should be initiated to CG Retail Java Support to resolve, no matter how many tills are affected, support teams will support over the weekend.
+
+See also:
+KB0010293 [Matalan] How to handle issues with access to Nova?
+KB0014565  [Matalan] How to proceed when Nova Support requests new ticket creation that needs to be raised with K3?
+KB0014348  [Matalan] How to proceed with Nova Proj7 Environment Refresh request (Nova Training Database Refresh)?
+KB0014445  [Matalan] How to solve issue with file uploads into Nova (error message: File or Directory not found/ File in use by another process)?
+KB0014770  [Matalan] Code change – SDN (Software Delivery Number) Process (Nova and WMOS).
+KB0014237  [Matalan] Unable to print from Pennine/Nova.
+KB0014646  [Matalan] How to proceed with NOVA Weekly GFK Homeware Sales Extract (GFKWeekly_(DATE).CSV) issue?
+KB0014660  [Matalan] Order Printing - Unable to retrieve file from Pennine/ Nova error.
+KB0014300  [Matalan] Nova/ Pennine- Programs Not In Scope.
+KB0014534  [Matalan] Nova/ CRT/ Pennine Job Controllers error. How to proceed with the Nova/ CRT/ Pennine Job Controllers error? Job controller has not been fund? WMoS Job Controller (MAIFJCX)
+KB0014813  [Matalan] Nova/ CRT/ Pennine application – general overview.
+KB0014554  [Matalan] Nova/ Pennine manual. How to use Pennine / Nova
+KB0014661  [Matalan] Nova/ CRT/ Pennine – Terminate RF. User locked in session
+KB0014655  [Matalan] Nova - E-Comm PayPal Returns.
+KB0014618  [Matalan] How to cancel a print job in Pennine/ Nova?
+KB0014148  [Matalan] How to kill Nova session? Terminate session in Nova.
+KB0014612  [Matalan] Checking for Locks in Pennine/ Nova/ CRT. How to check Locks in Pennini/ Nova/ CRT?
+KB0014391  [Matalan] How to check if a Pennine/Nova Account is valid?
+KB0014540  [Matalan] How to turn on automatic logon to Nova application on your PC?
+KB0010132 [Matalan] Unable to print from Pennine/Nova.
+KB0014370 [Matalan] Nova / Pennine / CRT software / application issue
+KB0014821 [Matalan] IFGRN file processing issue.
+KB0014446 [Matalan] How to proceed with Hallmark Sales File?
+KB0014713 [Matalan] Ghost Ringfence Issue.
+KB0014762 [Matalan] Stock Database.
+",Matalan,3 - Moderate/Limited,1 - Critical,
+INC0583578,2021-02-25 22:10:58,ESB unable to process multiple Interfaces including EComm order flow ,1 - Critical,Closed,Apps - CG ESB Support,Standard Incident,"Name:  Sumeet Lodha
+
+Details:  ESB unable to process multiple Interfaces including EComm order flow , 
+Impacted service will be ecommerce
+ Contact number: +447459882560 
+
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs) multiple 
+2. How urgent this is for you? yes 
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do? 
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+NOTE: When logging a call with a 3rd Party/ resolving team, please MAKE SURE that the below details are included in the email:
+- Contact Name: 
+- Contact Number: 
+- Head Office / Store (Delete as appropriate) 
+- Store Number (If applicable) 
+- Address: 
+- Postcode:
+- Problem Description:
+
+See KB below or, in case KB is missing, mark knowledge box:
+KB0014429 [Matalan] WinSCP - How to configure SFTP connection to Vitesse for DC users
+KB0014822 [Matalan] Weekend Reports - WSSI.
+KB0014771 [Matalan] Secure Trading Issue.
+KB0014816 [Matalan] Stakeholder Pensions.
+KB0014790 [Matalan] SQL Developer - ORACLE only available to users with RESTRICTED SESSION privilege
+KB0010758 [Matalan] Screen Diares Extract issue
+KB0011018 [Matalan] Power BI report issue
+KB0011017 [Matalan] Oracle - How to handle POREC file issues?
+KB0014751 [Matalan] Metapack error E20094 Unable to modify
+KB0014763 [Matalan] Marketing System.
+KB0014830 [Matalan] Booking System (DC Booking).
+KB0014366 [Matalan] How to proceed with Path/file access error (Spool File Retriever)?
+KB0014501 [Matalan] How to proceed with NexGen/ Proud to be Matalan website issue? (Matalan)
+KB0014243 [Matalan] How to proceed when User is not seeing any parameter options on the reports or any data (N
+KB0015055 [Matalan] How to proceed when user cannot open a video material (CCTV footage)?
+KB0014112 [Matalan] Unable to access .ERR files.
+KB0014410 [Matalan] How to handle Weaves issue - HASP key not found (H0007)?
+KB0014212 [Matalan] How to handle Missing partner articlenumber for Matalan (email)?
+KB0014610 [Matalan] How to handle issue with Spool File Retriever? Error: Could not find the FTP command file.
+KB0014513 [Matalan] How to handle Air Conditioning Unit issues in DC (server room)?
+KB0014861 [Matalan] How to deal with IBM Cognos report issue? The operation failed error message.
+KB0014753 [Matalan] Dematic Maintenance - unable to access the Hanging Garment servers via VPN.
+KB0014834 [Matalan] Debit Note System.
+KB0014729 [Matalan] Citrix issue Citrix plug-in installation
+KB0014782 [Matalan] ATC daily sales (Daily sales report).",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0474815,2021-01-29 09:22:40,Kibo Report,1 - Critical,Closed,Apps - CG Multichannel Support,Standard Incident,"Name: Gillian Orme
+
+Details: We have large number of payment errors on the Kibo reports for the last 2 days and don't know why.
+
+- Is this a single user / multiple user issue?
+NOTE: If multiple users are affected, below questions MUST be answered:
+1. If multiple users are affected, can they provide few user-IDs)
+2. How urgent this is for you?
+3. How does it affect your daily work (does it slow down your work or does it prevent you from working completely)?
+4. What are you trying to do?
+5. Is there any workaround?
+6.  Have you tested it on another PC?
+
+NOTE: When logging a call with a 3rd Party/ resolving team, please MAKE SURE that the below details are included in the email:
+- Contact Name: 
+- Contact Number: 
+- Head Office / Store (Delete as appropriate) 
+- Store Number (If applicable) 
+- Address: 
+- Postcode:
+- Problem Description:
+
+KB0010271 [Matalan] How to handle Azure Cloud related issues
+KB0014243 [Matalan] How to proceed when User is not seeing any parameter options on the reports or any data
+KB0014610 [Matalan] How to handle issue with Spool File Retriever? Error: Could not find the FTP command file.
+KB0014861 [Matalan] How to deal with IBM Cognos report issue? The operation failed error message.
+KB0014112 [Matalan] Unable to access .ERR files.
+KB0014173 [Matalan] How to proceed with email notification: CTS Data Load - Data Files Not Received?
+KB0014212 [Matalan] How to handle Missing partner article number for Matalan (email)?
+KB0014282 [Matalan] How to add user to a Social Networking Group in Active Directory?  Social media/ Facebook
+KB0014366 [Matalan] How to proceed with Path/file access error (Spool File Retriever)?
+KB0014410 [Matalan] How to handle Weaves issue – HASP key not found (H0007)?
+KB0014721 [Matalan] Inmoment issues and requests.
+KB0014729 [Matalan] Citrix issue Citrix plug-in installation
+KB0014751 [Matalan] Metapack error E20094 Unable to modify
+KB0014753 [Matalan] Dematic Maintenance - unable to access the Hanging Garment servers via VPN.
+KB0014790 [Matalan] SQL Developer - ORACLE only available to users with RESTRICTED SESSION privilege
+KB0015055 [Matalan] How to proceed when user cannot open a video material (CCTV footage)?
+KB0014816 [Matalan] Stakeholder Pensions.
+KB0014830 [Matalan] Booking System (DC Booking).
+KB0014865 [Matalan] Fortnightly Disk Space report for MATALAN.
+KB0014834 [Matalan] Debit Note System.
+KB0014267 [Matalan] Maintel alerts
+KB0014458 [Matalan] How to open invoices arriving from DC to Stores?
+KB0014501 [Matalan] How to proceed with NexGen/ Proud to be Matalan website issue? (Matalan)
+KB0014513 [Matalan] How to handle Air Conditioning Unit issues in DC (server room)?
+KB0014763 [Matalan] Marketing System.
+KB0014771 [Matalan] Secure Trading Issue.
+KB0014784 [Matalan] B & M Reporting Suite (B&M Reports).
+KB0014429 [Matalan] WinSCP - How to configure SFTP connection to Vitesse for DC users
+KB0011018 [Matalan] Power BI report issue
+KB0015050 [Matalan] Tableau support information",Matalan,1 - Extensive/Widespread,1 - Critical,3rd Party - Kibo (Pending)
+INC0500953,2021-02-04 18:38:04,"Not able to create a label due to error - 'the carrier is currently unavailable, wait and try again' ",1 - Critical,Closed,Apps - CG Multichannel Support,Issue with Software: ShipStation order issue,"Name: Seyon
+
+Issue description: not able to create a label - error code",Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0483609,2021-02-01 11:15:47,FW: Intune Enrollment,1 - Critical,Canceled,IS - CG Service Desk,,It was only information,Matalan,1 - Extensive/Widespread,1 - Critical,
+INC0398604,2021-01-07 16:52:15,WMOS 2018 Issue (ENTER DETAILS HERE),1 - Critical,Closed,Apps - CG WM0S 2018,Issue with software: WMOS 2018,"IMPORTANT FOR DC: In case of HPI, please obtain below information:
+If the issue is not resolved soon, how will it impact DC operations? May the incident cause a complete and immediate work stoppage affecting whole DC?
+
+User Name:-    
+
+User ID:-    
+
+1. Problem:-    
+
+2. Priority Required:-
+ 
+3. Potential Impact Now:-
+
+4. Potential Impact if not resolved within 2 hours:- 
+
+5. If this is relating to a report issue, what is the name of the report?:-       
+
+6. Is this a single user / multiple user issue?    
+(If multiple users are affected, can they provide few user-ids)
+
+7. Is the whole DC experiencing the problem or one particular Department?      
+
+8. What type of device is being used e.g. Scanner  
+If they issue is with scanner, have they checked the scanner & nearby access point signal? Is it at good strength?   
+
+9. Can you access the WMoS screen on the PC?
+
+10. What time the issue started:
+
+11. What were you doing when the issue occurred and which screen were you accessing, menu option etc.      
+
+12. At what point did the task fail?       
+
+13. Are there any error messages, any DB error message(if possible attach screenshot or text message):-      
+
+14. If it's a hanging task, did it stop midway through?       
+
+15. Any other relevant information -       
+
+16. **KNOWSLEY DC ONLY READ FOLLOWING STATEMENTS FULLY** 
+DC management state that if performance is affected then a restart is required!
+
+Given this requirement what time would be best for the DC to take an outage of approx 1 hour? 
+an email to the DC Manager will be required to confirm this information, especially if they say the restart is not required.
+Speak to Team Leader to advise of issue.
+
+INFORMATION    All calls should be assigned to the WMOS2008 queue for initial assessment and re-assignment if necessary.  
+
+Hardware is on a HP Platform and is supported by Offshore HPUX Team.    
+
+Webservers are supported by the Wintel Server Desktop Team.    
+
+Manhattan provide 3rd line support for the WMOS Application. The WMOS Team will determine whether or not the call needs to be logged to Manhattan.        
+
+KB0014198 [Matalan] E-Commerce Orders checking.
+KB0014602 [Matalan] How to proceed when Orders do not go through from WM system to Nova?
+KB0014810  [Matalan] How to proceed with WMOS system failure? Warehouse Management System- WMOS (WM). Server issue.
+KB0014740  [Matalan] WMOS in Galaxy and Corby- access links.
+KB0014486 [Matalan] WMOS - How to proceed ILPN/ LPN/ oLPN issues (DC)?
+KB0014873 [Matalan] WMOS - User cannot run waves. Waves issue. SQL Developer. DC
+KB0014591 [Matalan] How to proceed with order status change request (WMOS/E-comm)?
+KB0014758 [Matalan] WMOS 2018 - Corby DC WMOS issues. CDC
+KB0014138 Heap Usage Alert from WMoS
+",Matalan,1 - Extensive/Widespread,1 - Critical,3rd Party - Metapacks (Pending)
