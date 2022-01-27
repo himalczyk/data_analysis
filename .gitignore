@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#custom folder
+report_files/
+*report_files/
+.report_files
+*.report_files
