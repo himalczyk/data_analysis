@@ -1,6 +1,6 @@
 import nltk
 nltk.download('punkt')
-from extraction import filtered_columnb_by_keyword, filtered_column
+from extraction import filtered_column_by_keyword, filtered_column
 
 class Tagging():
     
@@ -17,24 +17,7 @@ class Tagging():
             
         return pos_tagged_tokens
     
-tag = Tagging(filtered_column)
+tag = Tagging(filtered_column_by_keyword)
 
 tag_column = tag.tag_data()
 print(tag_column)
-            
-
-# pos_tagged_tokens_by_keyword = []
-
-# for sentence in filtered_columnb_by_keyword:
-#     tokens = nltk.word_tokenize(sentence)
-#     pos_tagged_tokens_by_keyword.append(nltk.pos_tag(tokens))
-    
-# print(pos_tagged_tokens_by_keyword)
-
-# pos_tagged_tokens_by_column = []
-
-# for sentence in filtered_column:
-#     tokens = nltk.word_tokenize(sentence)
-#     pos_tagged_tokens_by_column.append(nltk.pos_tag(tokens))
-    
-# print(pos_tagged_tokens_by_column)
