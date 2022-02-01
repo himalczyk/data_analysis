@@ -53,7 +53,7 @@ class File():
         text=[]
         
         for row in column:
-            text.append(row.split())
+            text.append(row)
             
         extracted_keywords = []
             
