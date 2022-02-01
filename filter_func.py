@@ -1,16 +1,65 @@
 import pandas as pd
 
-def filter_data(column, keyword_to_search: str):
+
+class File():
     
-    text=[]
-    
-    for row in column:
-        text.append(row.split())
+    def __init__(self, filename):
+        self.filename = filename
         
-    for sentence in text:
-        if keyword_to_search in sentence:
-            print(sentence)
-        else:
-            print(False)
+    def prepare_file_to_read(self):
+        
+        """[Creates the path to the given filename in constructor]
+
+        Returns:
+            [String]: [Path to file to read from dataframe]
+        """
+        
+        file = f'report_files/{self.filename}.xlsx'
+        
+        return file
+        
+    def read_file(self, file):
+        
+        """[Read the file using pandas. Creates a dataframe]
+
+        Returns:
+            [<class 'pandas.core.series.Series'> dataframe]: [Dataframe object from Pandas]
+        """
+        
+        df = pd.read_excel(file)
+        
+        return df
+    
+    def extract_column_from_df(self, df, column_name):
+        
+        """[Extracts a column from a given created dataframe]
+
+        Returns:
+            [<class 'pandas.core.series.Series'>]: [Column extracted from dataframe]
+        """
+        
+        column = df[column_name]
+        
+        return column
+
+    def filter_data(self, column: str, keyword_to_search: str):
+        
+        """[Filters data by given column and keyword to extract sentence]
+
+        Returns:
+            [List]: [List of found sentences with given keyword]
+        """
+        
+        text=[]
+        
+        for row in column:
+            text.append(row.split())
             
-    return text
+        extracted_keywords = []
+            
+        for sentence in text:
+            if keyword_to_search in sentence:
+                extracted_keywords.append(sentence)
+                
+        return extracted_keywords
+
