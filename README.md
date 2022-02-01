@@ -1,2 +1,7 @@
 # data_analysis
-Just some scripting to extract keywords, nouns, verbs, compose sentences and analyze data in general.
+App to extract keywords, nouns, verbs, compose sentences for AI usage and analyze data in general.
+
+Using:
+- Pandas
+- Openpyxl
+- nltk
