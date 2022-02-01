@@ -41,8 +41,23 @@ class File():
         column = df[column_name]
         
         return column
+    
+    def filter_data_by_column(self, column):
+        
+        """[Extract every rows value basing on column given]
 
-    def filter_data(self, column: str, keyword_to_search: str):
+        Returns:
+            [List]: [List with sentences]
+        """
+        
+        text=[]
+        
+        for row in column:
+            text.append(row)
+            
+        return text
+
+    def filter_data_by_column_and_keyword(self, column, keyword_to_search: str):
         
         """[Filters data by given column and keyword to extract sentence]
 
