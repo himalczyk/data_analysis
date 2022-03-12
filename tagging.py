@@ -17,7 +17,45 @@ class Tagging():
             
         return pos_tagged_tokens
     
-tag = Tagging(filtered_column_by_keyword)
+    def extract_tagged_verbs(self, data_to_extract):
+        
+        verbs = []
+        
+        for list in data_to_extract:
+            for item in list:
+                if 'V' in item[1]:
+                    verbs.append(item[0])
+                    
+        return verbs
+    
+    def save_extracted_verbs_to_file(self, verbs):
+        
+        with open('verbs/extracted_verbs.txt', 'w+') as file:
+            for i in verbs:
+                file.write(i + '\n')
+                
+    def extract_tagged_nouns(self, data_to_extract):
+        
+        nouns = []
+        
+        for list in data_to_extract:
+            for item in list:
+                if 'N' in item[1]:
+                    nouns.append(item[0])
+                    
+        return nouns
+    
+    def save_extracted_nouns_to_file(self, verbs):
+    
+        with open('nouns/extracted_nouns.txt', 'w+') as file:
+            for i in verbs:
+                file.write(i + '\n')
+    
+tag = Tagging(filtered_column)
 
 tag_column = tag.tag_data()
-print(tag_column)
+extract_verbs = tag.extract_tagged_verbs(tag_column)
+print(extract_verbs)
+extract_nouns = tag.extract_tagged_nouns(tag_column)
+tag.save_extracted_nouns_to_file(extract_verbs)
+tag.save_extracted_verbs_to_file(extract_nouns)
