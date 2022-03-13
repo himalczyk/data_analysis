@@ -1,6 +1,8 @@
 import nltk
+import os.path
+import os
 nltk.download('punkt')
-from extraction import filtered_column_by_keyword, filtered_column
+from extraction import filtered_short_desc_by_keyword, filtered_short_desc, filtered_description_by_keyword, filtered_description
 
 class Tagging():
     
@@ -30,9 +32,17 @@ class Tagging():
     
     def save_extracted_verbs_to_file(self, verbs):
         
-        with open('verbs/extracted_verbs.txt', 'w+') as file:
-            for i in verbs:
-                file.write(i + '\n')
+        versioning = 0
+        directory_len = len(os.listdir('verbs')) +1
+        
+        for version in range(directory_len):
+            if os.path.exists(f'nouns/extracted_verbs_{versioning}.txt'):
+                versioning += 1
+                continue
+            else:
+                with open(f'nouns/extracted_verbs_{versioning}.txt', 'w+') as file:
+                    for i in verbs:
+                        file.write(i + '\n')
                 
     def extract_tagged_nouns(self, data_to_extract):
         
@@ -45,17 +55,32 @@ class Tagging():
                     
         return nouns
     
-    def save_extracted_nouns_to_file(self, verbs):
+    def save_extracted_nouns_to_file(self, nouns):
+        
+        versioning = 0
+        directory_len = len(os.listdir('nouns')) +1
+        
+        for version in range(directory_len):
+            if os.path.exists(f'nouns/extracted_nouns_{versioning}.txt'):
+                versioning += 1
+                continue
+            else:
+                with open(f'nouns/extracted_nouns_{versioning}.txt', 'w+') as file:
+                    for i in nouns:
+                        file.write(i + '\n')
     
-        with open('nouns/extracted_nouns.txt', 'w+') as file:
-            for i in verbs:
-                file.write(i + '\n')
-    
-tag = Tagging(filtered_column)
+tag_short_desc = Tagging(filtered_short_desc)
 
-tag_column = tag.tag_data()
-extract_verbs = tag.extract_tagged_verbs(tag_column)
+tag_column = tag_short_desc.tag_data()
+extract_verbs = tag_short_desc.extract_tagged_verbs(tag_column)
 print(extract_verbs)
-extract_nouns = tag.extract_tagged_nouns(tag_column)
-tag.save_extracted_nouns_to_file(extract_verbs)
-tag.save_extracted_verbs_to_file(extract_nouns)
+extract_nouns = tag_short_desc.extract_tagged_nouns(tag_column)
+tag_short_desc.save_extracted_nouns_to_file(extract_verbs)
+tag_short_desc.save_extracted_verbs_to_file(extract_nouns)
+
+# tag_description = Tagging(filtered_description)
+# tag_column = tag_description.tag_data()
+# extract_verbs = tag_description.extract_tagged_verbs(tag_column)
+# extract_nouns = tag_description.extract_tagged_nouns(tag_column)
+# tag_description.save_extracted_nouns_to_file(extract_verbs)
+# tag_description.save_extracted_verbs_to_file(extract_nouns)
