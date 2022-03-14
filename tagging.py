@@ -36,11 +36,11 @@ class Tagging():
         directory_len = len(os.listdir('verbs')) +1
         
         for version in range(directory_len):
-            if os.path.exists(f'nouns/extracted_verbs_{versioning}.txt'):
+            if os.path.exists(f'verbs/extracted_verbs_{versioning}.txt'):
                 versioning += 1
                 continue
             else:
-                with open(f'nouns/extracted_verbs_{versioning}.txt', 'w+') as file:
+                with open(f'verbs/extracted_verbs_{versioning}.txt', 'w+') as file:
                     for i in verbs:
                         file.write(i + '\n')
                 
@@ -69,18 +69,18 @@ class Tagging():
                     for i in nouns:
                         file.write(i + '\n')
     
-tag_short_desc = Tagging(filtered_short_desc)
+# tag_short_desc = Tagging(filtered_short_desc)
 
-tag_column = tag_short_desc.tag_data()
-extract_verbs = tag_short_desc.extract_tagged_verbs(tag_column)
-print(extract_verbs)
-extract_nouns = tag_short_desc.extract_tagged_nouns(tag_column)
-tag_short_desc.save_extracted_nouns_to_file(extract_verbs)
-tag_short_desc.save_extracted_verbs_to_file(extract_nouns)
+# tag_column_short_desc = tag_short_desc.tag_data()
+# extract_verbs = tag_short_desc.extract_tagged_verbs(tag_column_short_desc)
+# print(extract_verbs)
+# extract_nouns = tag_short_desc.extract_tagged_nouns(tag_column_short_desc)
+# tag_short_desc.save_extracted_nouns_to_file(extract_verbs)
+# tag_short_desc.save_extracted_verbs_to_file(extract_nouns)
 
-# tag_description = Tagging(filtered_description)
-# tag_column = tag_description.tag_data()
-# extract_verbs = tag_description.extract_tagged_verbs(tag_column)
-# extract_nouns = tag_description.extract_tagged_nouns(tag_column)
-# tag_description.save_extracted_nouns_to_file(extract_verbs)
-# tag_description.save_extracted_verbs_to_file(extract_nouns)
+tag_description = Tagging(filtered_description)
+tag_column_desc = tag_description.tag_data()
+extract_verbs = tag_description.extract_tagged_verbs(tag_column_desc)
+extract_nouns = tag_description.extract_tagged_nouns(tag_column_desc)
+tag_description.save_extracted_nouns_to_file(extract_verbs)
+tag_description.save_extracted_verbs_to_file(extract_nouns)
